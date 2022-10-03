@@ -44,3 +44,4 @@ export function addPoint(canvas, prevPrice, price) {
   ctx.arc(x, y, 4, 0, Math.PI * 2);
   ctx.fill();
 }
+Footer
